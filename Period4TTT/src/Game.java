@@ -1,5 +1,7 @@
 
+
 public class Game {
+
 	public Game() {}
 	
 	public void setDisplay(UI display) {}
@@ -7,3 +9,4 @@ public class Game {
 	public void playGame() {}
 
 }
+
